@@ -1,5 +1,7 @@
  A web application for visualizing drone no-fly zones and geographical regions in the Netherlands, built with React and OpenLayers.
 
+ url: https://spensiero.github.io/geo-app
+
 ## Features
 
 - Interactive map of the Netherlands

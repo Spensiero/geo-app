@@ -1,6 +1,4 @@
-# Dutch Drone No-Fly Zones Map
-
-A web application for visualizing drone no-fly zones and geographical regions in the Netherlands, built with React and OpenLayers.
+ A web application for visualizing drone no-fly zones and geographical regions in the Netherlands, built with React and OpenLayers.
 
 ## Features
 

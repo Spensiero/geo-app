@@ -1,11 +1,11 @@
 import Header from "./components/header/Header"
-import Main from "./components/main/Main"
+import MapComponent from "./components/mapComponent/MapComponent"
 
 function App() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col w-full h-full">
       <Header />
-      <Main />
+      <MapComponent />
     </div>
   )
 }

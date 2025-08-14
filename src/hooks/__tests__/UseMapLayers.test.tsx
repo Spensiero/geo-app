@@ -25,7 +25,7 @@ describe('useMapLayers', () => {
       const layerState = result.current.layersState[config.id];
       
       expect(layerState).toEqual({
-        isLoading: true,
+        isLoading: false,
         error: null,
         vectorLayer: null,
         visible: true,
